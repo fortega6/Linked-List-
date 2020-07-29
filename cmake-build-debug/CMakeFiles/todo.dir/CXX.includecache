@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/abstract_list.hpp
+cstdlib
+-
+
+C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/dynamic_array_list.hpp
+abstract_list.hpp
+C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/abstract_list.hpp
+dynamic_array_list.tpp
+C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/dynamic_array_list.tpp
+
+C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/dynamic_array_list.tpp
+dynamic_array_list.hpp
+C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/dynamic_array_list.hpp
+stdexcept
+-
+
+C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/main.cpp
+todo.hpp
+C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/todo.hpp
+iostream
+-
+stdexcept
+-
+cstdlib
+-
+
+C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/todo.cpp
+todo.hpp
+C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/todo.hpp
+iostream
+-
+fstream
+-
+stdexcept
+-
+cstdlib
+-
+
+C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/todo.hpp
+dynamic_array_list.hpp
+C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/dynamic_array_list.hpp
+string
+-
+

@@ -1,0 +1,6 @@
+C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/Linked-List-/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/Linked-List-/cmake-build-debug-mingw/CMakeFiles/student-tests.dir
+C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/Linked-List-/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
+C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/Linked-List-/cmake-build-debug-mingw/CMakeFiles/test.dir
+C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/Linked-List-/cmake-build-debug-mingw/CMakeFiles/todo.dir
+C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/Linked-List-/cmake-build-debug-mingw/CMakeFiles/submission.dir

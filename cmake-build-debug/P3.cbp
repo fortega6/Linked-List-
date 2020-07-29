@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="P3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="student-tests">
+				<Option output="C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/cmake-build-debug/student-tests.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 student-tests"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="student-tests/fast">
+				<Option output="C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/cmake-build-debug/student-tests.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 student-tests/fast"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test">
+				<Option working_dir="C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 test"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="todo">
+				<Option output="C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/cmake-build-debug/todo.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 todo"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="todo/fast">
+				<Option output="C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/cmake-build-debug/todo.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 todo/fast"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="submission">
+				<Option working_dir="C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 submission"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\fran_\Documents\C++ for Complete Beginners\UPF Projects\Final_P3\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/abstract_list.hpp">
+			<Option target="student-tests"/>
+			<Option target="todo"/>
+		</Unit>
+		<Unit filename="C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/catch.hpp">
+			<Option target="student-tests"/>
+		</Unit>
+		<Unit filename="C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/dynamic_array_list.hpp">
+			<Option target="student-tests"/>
+			<Option target="todo"/>
+		</Unit>
+		<Unit filename="C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/dynamic_array_list.tpp">
+			<Option target="student-tests"/>
+			<Option target="todo"/>
+		</Unit>
+		<Unit filename="C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/linked_list.hpp">
+			<Option target="student-tests"/>
+			<Option target="todo"/>
+		</Unit>
+		<Unit filename="C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/linked_list.tpp">
+			<Option target="student-tests"/>
+			<Option target="todo"/>
+		</Unit>
+		<Unit filename="C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/main.cpp">
+			<Option target="todo"/>
+		</Unit>
+		<Unit filename="C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/test_list.cpp">
+			<Option target="student-tests"/>
+		</Unit>
+		<Unit filename="C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/todo.cpp">
+			<Option target="todo"/>
+		</Unit>
+		<Unit filename="C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/todo.hpp">
+			<Option target="todo"/>
+		</Unit>
+		<Unit filename="C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/Final_P3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
